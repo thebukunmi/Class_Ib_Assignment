@@ -2,7 +2,7 @@
 
 This repository contains my assignment submission for Module I - AI and Omics Research Internship 2025.
 
-#Contents
+# Contents
 
 patient_info_clean.csv – Cleaned dataset
 
